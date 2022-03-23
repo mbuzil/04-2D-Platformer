@@ -1,20 +1,17 @@
-# 2D-Platformer-Character
+# Project Name
+04-2D-Platformer
 
-A somewhat-generic character (including animations and state machine) appropriate for a 2D platformer built in Godot. Includes test level.
+Try to collect coins and get to the portal while escaping evil bats that are chasing you
 
 ## Implementation
-Built using Godot 3.2.3
-
-The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah. CC0 Licensed.
+music
+wall jump and double jump
 
 ## References
-None
 
 ## Future Development
-None
+the buttons on the menu that lets you save load and quit only work if the menu starts off visible for some reason
 
-## Extra Credit
-None
+## Created by
 
-## Created by 
-Jason Francis
+Michael Buzil
